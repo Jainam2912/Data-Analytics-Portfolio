@@ -32,3 +32,5 @@ Model Performance:
 3. **Deep Learning Sequential Model**
      Accuracy: 95.33% with 1 hidden layer, batch size of 10, and 25 epochs
 
+Hence, Random Forest Classifier was the best performing model. However, the performance of deep learning sequential model can be improved by adding more hidden layers, increasing the epochs and making the model more complicated
+
